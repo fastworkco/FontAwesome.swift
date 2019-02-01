@@ -50,6 +50,10 @@
 		484F4A3A1ECC816A0010B0BA /* FontAwesomeStateRequirement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesomeStateRequirement.swift; sourceTree = "<group>"; };
 		484F4A3B1ECC816A0010B0BA /* FontAwesomeTabBarItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesomeTabBarItem.swift; sourceTree = "<group>"; };
 		484F4A3C1ECC816A0010B0BA /* FontAwesomeTextRepresentable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesomeTextRepresentable.swift; sourceTree = "<group>"; };
+		4AE6529D2204296E00EF9F6D /* Font Awesome 5 Pro-Light-300.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Pro-Light-300.otf"; sourceTree = "<group>"; };
+		4AE6529E2204296E00EF9F6D /* Font Awesome 5 Pro-Regular-400.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Pro-Regular-400.otf"; sourceTree = "<group>"; };
+		4AE6529F2204296E00EF9F6D /* Font Awesome 5 Pro-Solid-900.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Pro-Solid-900.otf"; sourceTree = "<group>"; };
+		4AE652A02204296E00EF9F6D /* Font Awesome 5 Brands-Regular-400.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Font Awesome 5 Brands-Regular-400.otf"; sourceTree = "<group>"; };
 		4DF4FB8E1E94581300F03B22 /* FontAwesome.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FontAwesome.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8401A8D21B39601400269D14 /* FontAwesome.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FontAwesome.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8401A8D61B39601400269D14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -166,6 +170,10 @@
 		84E07774210CA54300CF2885 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4AE652A02204296E00EF9F6D /* Font Awesome 5 Brands-Regular-400.otf */,
+				4AE6529D2204296E00EF9F6D /* Font Awesome 5 Pro-Light-300.otf */,
+				4AE6529E2204296E00EF9F6D /* Font Awesome 5 Pro-Regular-400.otf */,
+				4AE6529F2204296E00EF9F6D /* Font Awesome 5 Pro-Solid-900.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
