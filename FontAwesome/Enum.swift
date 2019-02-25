@@ -89,6 +89,7 @@ public enum FontAwesome: String {
     case arrowsAlt = "\u{f0b2}"
     case arrowsAltH = "\u{f337}"
     case arrowsAltV = "\u{f338}"
+    case arrowToBottom = "\u{f33d}"
     case artstation = "\u{f77a}"
     case assistiveListeningSystems = "\u{f2a2}"
     case asterisk = "\u{f069}"
